@@ -1,0 +1,9 @@
+/Users/zhaokunxiang/clion/Array/cmake-build-debug/CMakeFiles/intrinsics_gen.dir
+/Users/zhaokunxiang/clion/Array/cmake-build-debug/CMakeFiles/omp_gen.dir
+/Users/zhaokunxiang/clion/Array/cmake-build-debug/CMakeFiles/acc_gen.dir
+/Users/zhaokunxiang/clion/Array/cmake-build-debug/CMakeFiles/ARMTargetParserTableGen.dir
+/Users/zhaokunxiang/clion/Array/cmake-build-debug/CMakeFiles/AArch64TargetParserTableGen.dir
+/Users/zhaokunxiang/clion/Array/cmake-build-debug/CMakeFiles/RISCVTargetParserTableGen.dir
+/Users/zhaokunxiang/clion/Array/cmake-build-debug/CMakeFiles/my_project.dir
+/Users/zhaokunxiang/clion/Array/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhaokunxiang/clion/Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
